@@ -1,0 +1,20 @@
+{
+  "name": "trnk",
+  "version": "0.0.0",
+  "description": "Stupid NPM URL shortener",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/svincent/trnk.git"
+  },
+  "author": "Anthony Nichols, Simeon Vincent",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e1dc7270c857ea5c651fdbb898a864463edb020d",
+  "dependencies": {
+    "express": "~3.4.8"
+  }
+}
